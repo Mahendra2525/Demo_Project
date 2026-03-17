@@ -18,8 +18,7 @@ The dataset typically includes:
 Loan ID
 
 Loan Amount (Funded)
-
-Amount Received
+mount Received
 
 Interest Rate
 
