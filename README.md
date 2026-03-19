@@ -1,5 +1,6 @@
-BANK LOAN REPORT – FULL PROJECT EXPLANATION
-🔹 1. Project Objective
+### BANK LOAN REPORT 
+#### FULL PROJECT EXPLANATION
+#### 1. Project Objective
 
 This project analyzes bank loan data to:
 
@@ -11,19 +12,15 @@ Understand customer behavior
 
 Support data-driven lending decisions
 
-🧾 2. DATA USED IN THE PROJECT
+#### 2. DATA USED IN THE PROJECT
 
 The dataset typically includes:
 
 Loan ID
-
 Loan Amount (Funded)
 mount Received
-
 Interest Rate
-
 DTI (Debt-to-Income ratio)
-
 Loan Status (Fully Paid, Charged Off, Current)
 
 Loan Term (36 / 60 months)
@@ -38,8 +35,8 @@ Home Ownership
 
 👉 This data is cleaned and visualized in a dashboard tool (like Power BI / Tableau / Excel).
 
-📌 3. SUMMARY DASHBOARD (First Image)
-🔸 Key KPIs (Top Section)
+#### 3. SUMMARY DASHBOARD (First Image)
+#### Key KPIs (Top Section)
 
 Total Loan Applications: 38.6K
 
@@ -57,7 +54,7 @@ MTD (Month-To-Date) → current month performance
 
 MoM (Month-over-Month) → growth comparison
 
-🔸 Good vs Bad Loan Analysis
+#### Good vs Bad Loan Analysis
 ✅ Good Loans (86.18%)
 
 Applications: 33.2K
@@ -111,13 +108,13 @@ Darker regions = more loans
 
 States like Texas, California, New York have high demand
 
-🔸 Loan Term Distribution
+#### Loan Term Distribution
 
 36 months: 28.2K
 
 60 months: 10.3K
 
-👉 Insight:
+#### Insight:
 
 Most customers prefer shorter-term loans
 
@@ -155,7 +152,7 @@ Own: 2.8K
 
 Majority borrowers are renters or mortgage holders
 
-📈 5. KEY INSIGHTS FROM THE PROJECT
+#### 5. KEY INSIGHTS FROM THE PROJECT
 🔹 Business Insights
 
 Loan demand is increasing over time
@@ -184,7 +181,7 @@ Personal expenses
 
 Short-term loans are more popular
 
- 6. CONCLUSION
+ #### 6. CONCLUSION
 
 This dashboard helps the bank:
 
@@ -195,3 +192,4 @@ Improve loan approval strategies
 Monitor financial performance
 
 Reduce loan defaults
+
