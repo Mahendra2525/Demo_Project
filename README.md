@@ -193,3 +193,4 @@ Monitor financial performance
 
 Reduce loan defaults
 
+![image alt](https://github.com/Mahendra2525/Demo_Project/blob/d0e383c898327fcb68faaae86a2e7624e617da16/Bank%20Loan%20PBI.png)
